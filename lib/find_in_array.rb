@@ -6,3 +6,4 @@ while counter < array.length do
 end
 counter += 1
 end
+end
